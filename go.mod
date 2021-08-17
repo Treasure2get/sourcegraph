@@ -25,7 +25,7 @@ require (
 	github.com/boj/redistore v0.0.0-20180917114910-cd5dcc76aeff
 	github.com/certifi/gocertifi v0.0.0-20200211180108-c7c1fbc02894 // indirect
 	github.com/cespare/xxhash v1.1.0
-	github.com/cespare/xxhash/v2 v2.1.1 // indirect
+	github.com/cespare/xxhash/v2 v2.1.1
 	github.com/cockroachdb/errors v1.8.4
 	github.com/cockroachdb/redact v1.0.9 // indirect
 	github.com/cockroachdb/sentry-go v0.6.1-cockroachdb.2
@@ -113,7 +113,7 @@ require (
 	github.com/mattn/go-sqlite3 v1.14.8
 	github.com/mcuadros/go-version v0.0.0-20190830083331-035f6764e8d2
 	github.com/microcosm-cc/bluemonday v1.0.4
-	github.com/montanaflynn/stats v0.6.6 // indirect
+	github.com/montanaflynn/stats v0.6.6
 	github.com/mschoch/smat v0.2.0 // indirect
 	github.com/mxk/go-flowrate v0.0.0-20140419014527-cca7078d478f
 	github.com/neelance/parallel v0.0.0-20160708114440-4de9ce63d14c
